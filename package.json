@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "nearest-pantone": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/color-diff": "^1.2.1",
+    "@types/express": "^4.17.17"
+  }
+}
